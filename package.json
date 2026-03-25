@@ -1,0 +1,9 @@
+{
+  "name": "cc-oauth1-example",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --env-file=.env --watch server.js"
+  }
+}
